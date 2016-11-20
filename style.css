@@ -1,0 +1,86 @@
+
+header {
+  background-color: #88B3CA;
+  font-family: Helvetica;
+  float: top;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 1px 2px 2px #000;
+}
+
+aside {
+ background-color: #DDDDDE;
+ margin: 10px 10px 10px 30px;
+ padding: 10px;
+ overflow: hidden;
+ border-style: solid;
+ border-color: #DDDDDE;
+ border-radius: 3%;
+ width: 400px;
+ font-family: Helvetica, sans-serif;
+ box-shadow: 1px 2px 2px #000;
+float: left;
+position: static;
+
+}
+
+button {
+  background-color:#88B3CA;
+  border: none;
+  color: black;
+  font-weight: bold;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: Helvetica;
+  margin-top: 20px;
+  width: 100%;
+  cursor: pointer;
+}
+
+img {
+  border-radius: 3%;
+  display: inline-block;
+}
+
+h1 {
+  letter-spacing: 3px;
+  word-spacing: 10px;
+  font-size: 68px;
+}
+
+
+li {
+  font-family: helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.date p {
+  line-height: .6;
+  font-size: 15px;
+}
+
+.container {
+  display:none;
+}
+
+
+#work {
+  margin: 10px 30px 10px 10px;
+  padding-left: 15px;
+  max-width: 800px;
+  font-family: helvetica; sans-serif;
+  border-style: solid;
+  border-color: #DDDDDE;
+  border-radius: 3%;
+  background-color: #DDDDDE;
+  box-shadow: 1px 2px 2px #000;
+  float: right;
+}
